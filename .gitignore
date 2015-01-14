@@ -24,3 +24,65 @@ proguard/
 
 # Log Files
 *.log
+
+/.idea
+*.iml
+
+
+
+/.idea/workspace.xml
+
+/.idea/libraries
+
+*~
+
+scratch/
+keypair/
+
+.DS_Store
+/libs/cwac-endless/.DS_Store
+/libs/cwac-endless/demo/.DS_Store
+demo/bin/jarlist.cache
+
+# from
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+/.classpath
+ 
+ 
+# Android Studio files
+*.iml
+*.iws
+*.ipr
+.idea/
+.gradle/
+local.properties
+/*/*/build
+*/build/
+*~
+*.swp
+ 
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
